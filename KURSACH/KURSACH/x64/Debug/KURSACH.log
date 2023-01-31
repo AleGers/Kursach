@@ -1,0 +1,8 @@
+﻿  Lab2.cpp
+C:\Users\Alex\Desktop\KURSACH-main\Lab2.cpp(36,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\Desktop\KURSACH-main\Lab2.cpp(71,14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Alex\Desktop\KURSACH-main\Lab2.cpp(236,4): warning C4551: в вызове функции отсутствует список аргументов
+  Lab4.cpp
+C:\Users\Alex\source\repos\KURSACH\KURSACH\Lab4.cpp(101,13): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  Создание кода...
+  KURSACH.vcxproj -> C:\Users\Alex\source\repos\KURSACH\x64\Debug\KURSACH.exe
